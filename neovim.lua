@@ -1,5 +1,7 @@
 return {
+  {
   "EdenEast/nightfox.nvim",
+  name = "nightfox.nvim",
   lazy = false,
   priority = 1000,
   dependencies = {
@@ -77,7 +79,7 @@ return {
     }
 
     local groups = {
-      all = {
+      carbonfox = {
         -- Base Groups
         Whitespace = { fg = "palette.black.bright" },
         NonText = { fg = "palette.black.bright" },
@@ -189,4 +191,6 @@ return {
 
   end,
 
+},
+  { "LazyVim/LazyVim", opts = { colorscheme = "carbonfox" } },
 }
