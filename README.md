@@ -35,7 +35,7 @@ This theme includes configurations for:
 - Wofi (wofi.css)
 - Walker (walker.css)
 - SwayOSD (swayosd.css)
-- Desktop Background (backgrounds/amber_tube.jpg)
+- Desktop Backgrounds (backgrounds/amber_tube.jpg, backgrounds/solid-0a0a08.png in the theme's background colour)
 - Font (fonts/Bm437_IBM_XGA-AI_12x23.otb)
 
 ## Recommended additions
