@@ -35,7 +35,7 @@ This theme includes configurations for:
 - Wofi (wofi.css)
 - Walker (walker.css)
 - SwayOSD (swayosd.css)
-- Desktop Backgrounds (backgrounds/amber_tube.jpg, backgrounds/solid-0a0a08.png in the theme's background colour)
+- Desktop Backgrounds (backgrounds/amber_tube.jpg; backgrounds/solid-0a0a08.png in the theme's background colour; backgrounds/omarchy.png, Omarchy's logo in the theme's accent, under Omarchy's MIT licence in LICENSE-omarchy)
 - Font (fonts/Bm437_IBM_XGA-AI_12x23.otb)
 
 ## Recommended additions
